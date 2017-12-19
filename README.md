@@ -4,7 +4,7 @@ a python cli scrabble solver
 
 ## run it
 
-`$ python scrabble.py <hand>`
+`$ python scrabble.py --hand <hand>`
 
 ## help
 
